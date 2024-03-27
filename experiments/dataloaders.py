@@ -21,6 +21,7 @@ class Data1D(Dataset):
 
     target_flip : bool
         If True, sign of target is flipped.
+        t
 
     noise_scale : float
         Defaults to 0.0 (i.e. no noise). Otherwise, corresponds to standard
